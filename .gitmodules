@@ -1,0 +1,4 @@
+[submodule "libegg"]
+	path = libegg
+	url = https://github.com/mate-desktop/libegg.git
+	branch = master
